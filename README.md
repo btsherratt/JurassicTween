@@ -56,14 +56,8 @@ Currently the following features are supported:
 * You can give a duration of tween
 * The curve of the tweens can be set, and you can use an AnimationCurve to design your own.
 
-If this was useful to people and there was a sustainable way to develop it, we could add:
-
-* More API features
-* Better animation system and/or better integration into the Unity systems
-* Performance!
-
-If you like this then please let me know on Twitter, find me at http://twitter.com/btsherratt/.
-
 # Licence
 
-Currently this is licenced for evaluation use in your non-commercial projects only, and all rights are currently reserved and retained by my company SKFX Ltd.. If there is interest in taking this forward then this will be changed, but I would like to decide slowly about what makes most sense for licensing here.
+Public domain, no warranty etc.
+
+
